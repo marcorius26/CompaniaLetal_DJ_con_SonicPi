@@ -18,7 +18,7 @@ La base de este proyecto es crear un set de Dj, mientras programamos en vivo con
 
 #### Etapa 1 Intro
 
-En esta parte se propondrá una base ya hecha para dar tiempo a preparar todo el set
+En esta parte se propondrá una base ya hecha para dar tiempo a preparar todo el set.
 
 	use_bpm 60
 
@@ -171,7 +171,7 @@ En esta parte se propondrá una base ya hecha para dar tiempo a preparar todo el
 
 #### Etapa 2 Confusión
 
-Al terminar esta intro empezaran a sonar ruidos de cuentas atrás, cronómetros, acabando con la explosion de una bomba nuclear.
+Al terminar esta intro, empezaran a sonar ruidos de cuentas atrás, cronómetros, acabando con la explosión de una bomba nuclear.
 
 	in_thread do
 	  sleep 35  # Esperar un tiempo antes de cambiar las amplitudes y velocidad
@@ -200,7 +200,7 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 
 	use_bpm 120
 	
-	#Utilización de 2 samples similares para imitar al de un aparato electrico que ha perdido una fuente de alimentación, ajustando la velocidad de reproducción de este sample con la función rate:
+	#Utilización de 2 samples similares para imitar al de un aparato eléctrico que ha perdido una fuente de alimentación, ajustando la velocidad de reproducción de este sample con la función rate:
 	
 	live_loop :beep_boop do
 	  sample :elec_ping, rate: 2
@@ -248,7 +248,7 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 	  sleep 8
 	end
 	
-	#Finalmente el dj utiliza su guitarra para hacer del beat una obra maestra digna del festival ucjc demostrando así que ni un apocalipsis puede parar el festival. Aquí utilizamos with_fx para dar efectos al sample de una guitarra, solapamos 2 efectos uno sobre otro para aportar al sonido apocaliptico y fuera de lugar.
+	#Finalmente el dj utiliza su guitarra para hacer del beat una obra maestra digna del festival UCJC demostrando así que ni un apocalipsis puede parar el festival. Aquí utilizamos with_fx para dar efectos al sample de una guitarra, solapamos 2 efectos uno sobre otro para aportar al sonido apocalíptico y fuera de lugar.
 	
 	live_loop :guitarra do
 	  with_fx :echo, mix: 0.5, phase: 0.75 do
