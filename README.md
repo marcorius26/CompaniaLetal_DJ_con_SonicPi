@@ -1,6 +1,6 @@
 # DJ con Sonic Pi
 
-Este práctica es del grupo Compañia Letal para Lenguajes y Paradigmas de tercer año de Ingeniería Informática UCJC.
+Esta práctica es del grupo Compañia Letal para Lenguajes y Paradigmas de tercer año de Ingeniería Informática UCJC.
 
 #### Compuesto por:
                 
@@ -209,7 +209,7 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 	  sleep 1.5
 	end
 	
-	#Similar al anterior live_loop en este utilizamos un sample anteriormente utilizado pero utilizamos funciones para darle un sonido distinto, para ello utilizamos la función rate previamente utilizada pero junto con la función knit somos capaces de hacer que una vez se reproduzca a 1.5 de velocidad pero a la siguiente se reproduzca a la velocidad estandar dandole variedad, además de amplificar el sonido 1.5 veces para que resalte más, el resultado final es un sonido similar a una alarma.
+	#Similar al anterior live_loop en este utilizamos un sample anteriormente utilizado, pero utilizamos funciones para darle un sonido distinto. Para ello utilizamos la función rate previamente utilizada, pero junto con la función knit somos capaces de hacer que una vez se reproduzca a 1.5 de velocidad, pero a la siguiente se reproduzca a la velocidad estandar dandole variedad, además de amplificar el sonido 1.5 veces para que resalte más, el resultado final es un sonido similar a una alarma.
 	
 	live_loop :alarma do
 	  sample :elec_blip2, rate: (knit 1.5, 1, 1, 1).tick, amp: 1.5
