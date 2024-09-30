@@ -105,7 +105,7 @@ elec_sleep = 1.0
 
 # Hilo para el bajo
 bass_thread = in_thread do
-  sleep 5
+  sleep 8
   loop do
     sample :bass_woodsy_c, amp: bass_amp
     sleep 0.25
@@ -116,7 +116,7 @@ end
 
 # Hilo para los sonidos electrónicos
 elec_thread = in_thread do
-  sleep 5
+  sleep 8
   loop do
     sample :elec_ping, amp: elec_amp, rate: elec_rate
     sleep elec_sleep * 0.25
@@ -127,7 +127,7 @@ end
 
 # Hilo para el bombo
 kick_thread = in_thread do
-  sleep 5
+  sleep 8
   loop do
     sample :bd_haus, amp: bass_amp
     sleep 0.5
