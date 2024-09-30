@@ -277,8 +277,8 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 
 Nielsen Casado García: <https://github.com/NielsenCG>
 
-Vittorio Ferone : <https://github.com/viitto999>
+Vittorio Ferone: <https://github.com/viitto999>
 
-Marcos Sánchez Morales : <https://github.com/marcorius26>
+Marcos Sánchez Morales: <https://github.com/marcorius26>
 
-Javier Langa Subiron: <https://github.com/JaviL57>
+Javier Langa Subirón: <https://github.com/JaviL57>
