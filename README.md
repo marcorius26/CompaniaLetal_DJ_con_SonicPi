@@ -16,8 +16,6 @@ Esta práctica es del grupo Compañia Letal para Lenguajes y Paradigmas de terce
 La base de este proyecto es crear un set de Dj, mientras programamos en vivo con Sonic Pi.
 
 ## Set: 
-
-
 #### Etapa 1 Intro
 
 En esta parte se propondrá una base ya hecha para dar tiempo a preparar todo el set.
@@ -273,6 +271,8 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 	  end
 	end
 
+
+----
 ### Integrantes del grupo:
 
 Nielsen Casado García: <https://github.com/NielsenCG>
@@ -282,3 +282,14 @@ Vittorio Ferone: <https://github.com/viitto999>
 Marcos Sánchez Morales: <https://github.com/marcorius26>
 
 Javier Langa Subirón: <https://github.com/JaviL57>
+
+----
+### Documentación:
+
+Página principal de Sonic Pi: <https://sonic-pi.net/>
+
+Guia y orientación para la creación del README.md: <https://pandao.github.io/editor.md/en.html>
+
+Sample sounds de Sonic Pi: <https://pixabay.com/es/sound-effects/>
+
+Template de la presentación PDF: <https://www.slidescarnival.com/template/simple-and-elegant-soundwave-marketing-plan/28588>
