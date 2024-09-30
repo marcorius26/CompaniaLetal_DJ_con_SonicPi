@@ -6,10 +6,10 @@ Esta práctica es del grupo Compañia Letal para Lenguajes y Paradigmas de terce
 
 #### Compuesto por:
                 
++ Javier Langa Subirón
++ Marcos Sánchez Morales
 + Nielsen Casado García
 + Vittorio Ferone
-+ Marcos Sánchez Morales
-+ Javier Langa Subirón
                 
 ----
 
@@ -323,13 +323,15 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 ----
 ### Integrantes del grupo:
 
+Javier Langa Subirón: <https://github.com/JaviL57>
+
+Marcos Sánchez Morales: <https://github.com/marcorius26>
+
 Nielsen Casado García: <https://github.com/NielsenCG>
 
 Vittorio Ferone: <https://github.com/viitto999>
 
-Marcos Sánchez Morales: <https://github.com/marcorius26>
 
-Javier Langa Subirón: <https://github.com/JaviL57>
 
 ----
 ### Documentación:
