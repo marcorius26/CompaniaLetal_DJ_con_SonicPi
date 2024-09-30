@@ -1,5 +1,7 @@
 # DJ con Sonic Pi
 
+![](https://www.google.com/imgres?q=sonic%20pi&imgurl=https%3A%2F%2Fwww.cl.cam.ac.uk%2Fprojects%2Fraspberrypi%2Fsonicpi%2Fmedia%2Fsonic-pi.png&imgrefurl=https%3A%2F%2Fwww.cl.cam.ac.uk%2Fprojects%2Fraspberrypi%2Fsonicpi%2Fteaching.html&docid=vg_dml55shqO9M&tbnid=dIUovfVvPGuUPM&vet=12ahUKEwi52sD0p-qIAxVy7bsIHYj5BcYQM3oECGkQAA..i&w=538&h=150&hcb=2&ved=2ahUKEwi52sD0p-qIAxVy7bsIHYj5BcYQM3oECGkQAA)
+
 Esta práctica es del grupo Compañia Letal para Lenguajes y Paradigmas de tercer año de Ingeniería Informática UCJC.
 
 #### Compuesto por:
@@ -270,3 +272,13 @@ Con la base anterior se realizaran unos pequeños cambios a la base, sin quitar 
 	    end
 	  end
 	end
+
+### Integrantes del grupo:
+
+Nielsen Casado García: <https://github.com/NielsenCG>
+
+Vittorio Ferone : <https://github.com/viitto999>
+
+Marcos Sánchez Morales : <https://github.com/marcorius26>
+
+Javier Langa Subiron: <https://github.com/JaviL57>
